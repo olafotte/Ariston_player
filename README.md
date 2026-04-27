@@ -4,7 +4,7 @@ A computer vision application that reads Ariston record images and plays the mus
 
 ## Overview
 
-Ariston records are vinyl records with a unique encoding system where music is represented by holes punched in a spiral pattern on the disc. This application uses image processing to detect these patterns and synthesize the corresponding audio.
+Ariston records are paper records with a unique encoding system where music is represented by holes punched in a spiral pattern on the disc. This application uses image processing to detect these patterns and synthesize the corresponding audio.
 
 ## Features
 
