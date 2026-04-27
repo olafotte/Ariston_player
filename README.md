@@ -1,6 +1,6 @@
 # Ariston Player Workstation
 
-A computer vision application that reads Ariston vinyl record images and plays the music encoded in them.
+A computer vision application that reads Ariston record images and plays the music encoded in them.
 
 ## Overview
 
